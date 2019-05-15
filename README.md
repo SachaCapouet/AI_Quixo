@@ -11,3 +11,7 @@ Comment procède notre intelligence, pour jouer un mouvement?
 
 
 Aucune bibliothèque n'a été utilisé pour la création de ce code.
+
+
+
+[Réalisé par Noélie De Leeuw (17275) et Sacha Capouet (17309).]
