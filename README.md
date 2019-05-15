@@ -1,9 +1,9 @@
 # AI_Quixo
 Programme python "intelligent", qui renvoie des mouvement valides pour le jeu "QUIXO" 
 
-Comment procède notre intelligence, pour jouer un mouvement?
+Comment procède notre intelligence pour jouer un mouvement?
 
-*  Premièrement, nous initialisons quelques variables à chaque tour. Ces variables sont par exemple un dictionnaire comptenant en clé tout les pions sur le bord du plateau et en valeur les directions valables qui leurs sont associées. Nous effectuons aussi une fonction qui se charge de vérifier quel joueur nous sommes (0 ou 1 dans ce jeu ci).
+*  Premièrement, nous initialisons quelques variables à chaque tour. Ces variables sont par exemple un dictionnaire comptenant en clé tous les pions sur le bord du plateau et en valeur les directions valables qui leurs sont associées. Nous effectuons aussi une fonction qui se charge de vérifier quel joueur nous sommes (0 ou 1 dans ce jeu ci).
 
 *  Deuxièmement, plusieurs autres fonctions s'exécutent afin d'analyser la variable "game" récupérée. On peut donc dès lors créer des listes qui contiennent les cases nous appartenant, ainsi que les cases vides et celle de notre adversaire.
 
